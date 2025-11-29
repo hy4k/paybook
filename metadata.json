@@ -1,0 +1,5 @@
+{
+  "name": "FETS PayBook",
+  "description": "A comprehensive payroll and expense management platform. Calculate salaries, manage partner contributions with SettleUp, and generate detailed reports and payslips. Built with React and TypeScript.",
+  "requestFramePermissions": []
+}
